@@ -1,6 +1,6 @@
 # Barcode Reader
 
-OpenCV program designed to find, extract, correct orientation and read a barcode from an image.
+The goal of this project was to design an OpenCV program to find, extract, correct orientation and read a barcode from an image.
 
 This was completed in a team of 3 inlcuding myself, Robert Vaughan and Mohamad Zabad. Much of my research and development process was documented [here](https://2284benryan.blogspot.com/ "https://2284benryan.blogspot.com/").
 
